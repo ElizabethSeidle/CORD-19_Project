@@ -3,5 +3,5 @@
 
 ## Outline
 
- - [Exploring the raw data](CORD-19_Project/Code/COVID_Pubs_WK_4.ipynb)
+ - [Week 4: Exploring the raw data](CORD-19_Project/Code/COVID_Pubs_WK_4.ipynb)
 
