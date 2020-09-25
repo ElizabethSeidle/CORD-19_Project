@@ -3,5 +3,12 @@
 
 ## Outline
 
- - [Week 4: Exploring the raw data](Code/COVID_Pubs_Wk_4.ipynb)
- - [Week 4: Initial MongoDB data cleaning](https://gist.github.com/465b1d41331c8e2f748096507662c30f.git)
+Data Exploration and Preliminary Cleaning
+ - [Exploring the raw data](Code/COVID_Pubs_Wk_4.ipynb)
+ - [Initial MongoDB data cleaning](https://gist.github.com/465b1d41331c8e2f748096507662c30f.git)
+
+Data Cleaning
+
+Data Preprocessing for Text Analyses
+
+Analyses
