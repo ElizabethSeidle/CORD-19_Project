@@ -13,5 +13,6 @@ Dataset prep
  - [Creating the working dataset](Code/Lesson6_Assigment_Amit_1001.ipynb)
 
 Data Preprocessing for Text Analyses
+ - [Further Text Preprocessing to prepare for modelling](Code/wk8_Preprocess_Text.ipynb)
 
 Analyses
