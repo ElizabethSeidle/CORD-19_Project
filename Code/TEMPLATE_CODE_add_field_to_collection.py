@@ -9,6 +9,9 @@
 client = pymongo.MongoClient("mongodb+srv://group3:group3psu!@squid.36jsw.mongodb.net/CORD19?retryWrites=true&w=majority")
 db = client.CORD19
 collection = db.preprocess
+
+#Your other code.....
+
 cursor = collection.find()
  
 for document in cursor:
