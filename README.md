@@ -16,3 +16,9 @@ Data Preprocessing for Text Analyses
  - [Further Text Preprocessing to prepare for modelling](Code/wk8_Preprocess_Text.ipynb)
 
 Analyses
+ - [Sentiment Analysis for abstracts])(Code/Initial_Sentiment_Analyses.ipynb)
+ - TD-IDF
+ - LDA
+ - BERT
+
+Final Results and Comparisons
