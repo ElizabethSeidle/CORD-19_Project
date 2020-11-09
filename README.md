@@ -14,11 +14,12 @@ Dataset prep
 
 Data Preprocessing for Text Analyses
  - [Further Text Preprocessing to prepare for modelling](Code/wk8_Preprocess_Text.ipynb)
+ - [POS tagging and removal](Code/wk10_Final.py)
 
-Analyses
- - [Sentiment Analysis for abstracts](Code/Initial_Sentiment_Analyses.ipynb)
- - TD-IDF
- - LDA
+Models
+ - [Sentiment Analysis](Code/Initial_Sentiment_Analyses.ipynb)
+ - [TD-IDF and LDA Models](Code/LDA_abstract_final.ipynb)
  - BERT
 
 Final Results and Comparisons
+ - [Sentiment over time](Code/Sentiment_vs_Time.ipynb)
