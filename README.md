@@ -22,5 +22,5 @@ Models
  - BERT
 
 Final Results and Comparisons
- - [Sentiment over time](Code/Sentiment_vs_Time.ipynb)
+ - [Sentiment over time and by cluster](Code/Sentiment_vs_Time.ipynb)
    - [Visualizations](Code/Plotly_Visuals_1.R)
