@@ -20,6 +20,10 @@ Models
  - [Sentiment Analysis](Code/Initial_Sentiment_Analyses.ipynb)
  - [TD-IDF and LDA Models](Code/LDA_abstract_final.ipynb)
  - BERT
+   - [Embeddings](Code/embeddings.py)
+   - [HDBSCAN](Code/hdbscan.py)
+   - [LDA Classification](Code/classLDA_full.py)
+   - [TFIDF](Code/classTFIDF.py)
 
 Final Results and Comparisons
  - [Sentiment over time and by cluster](Code/Sentiment_vs_Time.ipynb)
