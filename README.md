@@ -23,4 +23,4 @@ Models
 
 Final Results and Comparisons
  - [Sentiment over time and by cluster](Code/Sentiment_vs_Time.ipynb)
-   - [Visualizations](Code/Plotly_Visuals_1.R)
+   - [Visualizations](Code/PVisuals_Sentiment_and_Networks.R)
