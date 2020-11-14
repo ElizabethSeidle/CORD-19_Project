@@ -26,7 +26,7 @@ Models
 
 Final Results and Comparisons
  - [Sentiment over time and by cluster](Code/Sentiment_vs_Time.ipynb)
-   - [Visualizations](Code/PVisuals_Sentiment_and_Networks.R)
+   - [Visualizations](Code/Visuals_Sentiment_and_Networks.R)
 
 ## Data Source
 Data are from the meta data file for [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv)
