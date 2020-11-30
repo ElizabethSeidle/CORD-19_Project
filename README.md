@@ -29,7 +29,7 @@ Final Results and Comparisons
  - [COVID Topics Derivation from Bert Cluster labels](Code/Sample_COVID-19_word_cloud_code_based_on_cluster_label.ipynb)
  - [Topic Popularities Over Time](Code/Wk12_Temporal_ClusterAnalysis.ipynb)
  - [Sentiment over time and by cluster](Code/Sentiment_vs_Time.ipynb)
-   - [Visualizations](Code/Visuals)
+ - [Visualizations](Code/Visuals)
 
 ## Data Source
 Data are from the meta data file for [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv)
