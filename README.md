@@ -26,7 +26,7 @@ Models
    - [TFIDF](Code/classTFIDF.py)
 
 Final Results and Comparisons
- - [COVID Topics Derivation from Bert Clusters using TF_IDF](Code/COVID-19 Topic Derivation from Bert Clusters using TF-IDF.ipynb)
+ 
  - [Topic Popularities Over Time](Code/Wk12_Temporal_ClusterAnalysis.ipynb)
  - [Sentiment over time and by cluster](Code/Sentiment_vs_Time.ipynb)
  - [Visualizations](Code/Visuals)
