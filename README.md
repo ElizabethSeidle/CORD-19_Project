@@ -26,7 +26,7 @@ Models
    - [TFIDF](Code/classTFIDF.py)
 
 Final Results and Comparisons
- - [COVID Topics Derivation from Bert Cluster labels](Code/Sample_COVID-19_word_cloud_code_based_on_cluster_label.ipynb)
+ - [COVID Topics Derivation from Bert Clusters using TF_IDF](Code/Sample_COVID-19_word_cloud_code_based_on_cluster_label.ipynb)
  - [Topic Popularities Over Time](Code/Wk12_Temporal_ClusterAnalysis.ipynb)
  - [Sentiment over time and by cluster](Code/Sentiment_vs_Time.ipynb)
  - [Visualizations](Code/Visuals)
