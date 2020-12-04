@@ -26,6 +26,7 @@ Models
    - [TFIDF](Code/classTFIDF.py)
 
 Final Results and Comparisons
+ - [Topics_Derivation_using_TFIDF_from_Bert_HDBSCAN_Clusters](Code/Topics_Derivation_using_TFIDF_from_Bert_HDBSCAN_Clusters.ipynb)
  - [Topic Popularities Over Time](Code/Wk12_Temporal_ClusterAnalysis.ipynb)
  - [Sentiment over time and by cluster](Code/Sentiment_vs_Time.ipynb)
  - [Visualizations](Code/Visuals)
